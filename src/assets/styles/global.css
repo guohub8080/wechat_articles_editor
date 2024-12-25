@@ -1,0 +1,17 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    box-sizing: border-box;
+    /*font-family:  "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", serif;*/
+}
+.ant-tabs-tab-btn{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.ant-tabs-tab-active{
+    background-color: #d0e4f5 !important;
+    color: white!important;
+    font-weight: 700;
+}
